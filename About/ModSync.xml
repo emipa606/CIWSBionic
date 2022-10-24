@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>369aea44-61d5-4b45-8349-ca2b1ecc72ae</ID>
   <ModName>CIWS_Bionic (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.4.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
