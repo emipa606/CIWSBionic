@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 安装语言翻译假牙 -->
+  <InstallCIWSFanyiJiaya.label>安装语言翻译假牙</InstallCIWSFanyiJiaya.label>
+  <!-- EN: 安装语言翻译假牙. -->
+  <InstallCIWSFanyiJiaya.description>安装语言翻译假牙.</InstallCIWSFanyiJiaya.description>
+  <!-- EN: 安装语言翻译假牙. -->
+  <InstallCIWSFanyiJiaya.jobString>安装语言翻译假牙.</InstallCIWSFanyiJiaya.jobString>
+  <!-- EN: 注入纳米机器人 -->
+  <InstallCIWSNamiAI.label>注入纳米机器人</InstallCIWSNamiAI.label>
+  <!-- EN: 注入纳米机器人. -->
+  <InstallCIWSNamiAI.description>注入纳米机器人.</InstallCIWSNamiAI.description>
+  <!-- EN: 注入纳米机器人. -->
+  <InstallCIWSNamiAI.jobString>注入纳米机器人.</InstallCIWSNamiAI.jobString>
+  <!-- EN: 安装智能仿生腿 -->
+  <InstallCIWSZhinengTui.label>安装智能仿生腿</InstallCIWSZhinengTui.label>
+  <!-- EN: 安装智能仿生腿. -->
+  <InstallCIWSZhinengTui.description>安装智能仿生腿.</InstallCIWSZhinengTui.description>
+  <!-- EN: 安装智能仿生腿. -->
+  <InstallCIWSZhinengTui.jobString>安装智能仿生腿.</InstallCIWSZhinengTui.jobString>
+</LanguageData>
